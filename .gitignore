@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 #project files
-Client\appsettings.json
-TodoListService\appsettings.json
+./Client/appsettings.json*
+./TodoListService/appsettings.json*
 
 # User-specific files
 *.rsuser
